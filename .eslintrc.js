@@ -3,6 +3,7 @@ module.exports = {
      "rules": {
          "comma-dangle": 0,
          "no-trailing-spaces": 0,
-         "linebreak-style": 0
+         "linebreak-style": 0,
+         "operator-linebreak":0
      }
 };
